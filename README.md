@@ -68,7 +68,7 @@ This man that helps businesses grow. Meet...
   </td>
   <td align="center">
     <b>Card of Sakha Republic citizen</b><br>
-    <a href="https://analytics.albank.ru">
+    <a href="https://card.sakha.gov.ru">
     <img src="assets/images/cv-4.jpg" width="150"/>
     </a>
     <br>
