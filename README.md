@@ -302,24 +302,27 @@ Stats:
   </a>
 
   <br>
+  <br>
 
   <a href="https://ko-fi.com/Q5Q21JXI9A">
     <img align="center" src="https://www.ko-fi.com/img/githubbutton_sm.svg" height="30" alt="Support through Ko-fi" />
   </a>
 
   <br>
-
+  <br>
 
   <a href="https://donorbox.org/kenyawest">
     <img align="center" src="https://donorbox.org/nonprofit-blog/wp-content/uploads/2018/08/donate-button-large.png" height="40" alt="Buy me a coffee" />
   </a>
 
   <br>
+  <br>
 
   <a href="https://buymeacoffee.com/kenyawest">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="40" alt="Buy me a coffee" />
   </a>
 
+  <br>
   <br>
 
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/kenyawestdev)
