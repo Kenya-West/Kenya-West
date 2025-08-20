@@ -246,12 +246,12 @@ Stats:
 <picture>
   <source
     height="160em"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenya-West&utcOffset=8&theme=dark"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenya-West&utcOffset=7&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <img
     height="160em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenya-West&utcOffset=8" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenya-West&utcOffset=7" />
 </picture>
 
 </details>
