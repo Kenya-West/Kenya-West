@@ -142,7 +142,7 @@ Observability:
 
 Design:
 
-[![My Skills - Design](https://skillicons.dev/icons?i=ps,ai,pr,ae,au&theme=light)](https://skillicons.dev)
+[![My Skills - Design](https://skillicons.dev/icons?i=ps,ai,pr,ae,au&theme=dark)](https://skillicons.dev)
 
 Other from IT:
 
@@ -174,10 +174,6 @@ Stats:
     srcset="https://github-readme-stats-kenyawest.vercel.app/api?username=Kenya-West&custom_title=Kenya-West's+Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&hide_border=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats-kenyawest.vercel.app/api?username=Kenya-West&custom_title=Kenya-West's+Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img src="https://github-readme-stats-kenyawest.vercel.app/api?username=Kenya-West&custom_title=Kenya-West's+Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&hide_border=true" />
 </picture>
 <!-- Most Used Languages -->
@@ -186,11 +182,7 @@ Stats:
     srcset="https://github-readme-stats-kenyawest.vercel.app/api/top-langs/?username=Kenya-West&layout=donut-vertical&hide_border=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats-kenyawest.vercel.app/api/top-langs/?username=Kenya-West&layout=donut-vertical&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-kenyawest.vercel.app/api/top-langs/?username=Kenya-West&layout=donut-vertical&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats-kenyawest.vercel.app/api/top-langs/?username=Kenya-West&layout=donut-vertical&hide_border=true" />
 </picture>
 </a>
 
@@ -201,14 +193,9 @@ Stats:
     srcset="https://github-readme-stats-kenyawest.vercel.app/api/wakatime?username=kenyawest&api_domain=wakapi.dev&layout=compact&hide_border=true&show_icons=true&custom_title=My%20heartbeat&theme=dark&title_color=FAFAFA&icon_color=FAFAFA&text_color=D0D0D0"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    height="158em"
-    srcset="https://github-readme-stats-kenyawest.vercel.app/api/wakatime?username=kenyawest&api_domain=wakapi.dev&layout=compact&hide_border=true&show_icons=true&custom_title=My%20heartbeat"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img
     height="158em"
-    src="https://github-readme-stats-kenyawest.vercel.app/api/wakatime?username=kenyawest&api_domain=wakapi.dev&layout=compact&hide_border=true&show_icons=true&custom_title=My%20heartbeat&theme=dark&title_color=FAFAFA&icon_color=FAFAFA&text_color=D0D0D0" />
+    src="https://github-readme-stats-kenyawest.vercel.app/api/wakatime?username=kenyawest&api_domain=wakapi.dev&layout=compact&hide_border=true&show_icons=true&custom_title=My%20heartbeat&title_color=FAFAFA&icon_color=FAFAFA&text_color=D0D0D0" />
 </picture>
 
 <!-- Kenya-West's Profile Summary Stats -->
@@ -218,14 +205,9 @@ Stats:
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenya-West&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    height="158em"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenya-West&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img
     height="158em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenya-West&theme=dark" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenya-West" />
 </picture>
 <!-- Kenya-West's Profile Summary Stats -->
 <picture>
@@ -234,14 +216,9 @@ Stats:
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kenya-West&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    height="158em"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kenya-West&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img
     height="158em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kenya-West&theme=dark" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kenya-West" />
 </picture>
 <!-- Kenya-West's Repos Per Language Stats -->
 <picture>
@@ -250,14 +227,9 @@ Stats:
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kenya-West&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    height="158em"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kenya-West&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img
     height="158em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kenya-West&theme=dark" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kenya-West" />
 </picture>
 <!-- Kenya-West's Most Commit Language Stats -->
 <picture>
@@ -266,30 +238,20 @@ Stats:
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kenya-West&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    height="160em"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kenya-West&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img
     height="160em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kenya-West&theme=dark" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kenya-West" />
 </picture>
 <!-- Kenya-West's Productive Time Stats -->
 <picture>
   <source
     height="160em"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenya-West&theme=dark&utcOffset=8"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenya-West&utcOffset=8&theme=dark"
     media="(prefers-color-scheme: dark)"
-  />
-  <source
-    height="160em"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenya-West&theme=dark&utcOffset=8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
     height="160em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenya-West&theme=dark&utcOffset=8" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenya-West&utcOffset=8" />
 </picture>
 
 </details>
